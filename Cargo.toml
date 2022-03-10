@@ -2,7 +2,7 @@
 name = "ansi-to-tui"
 version = "0.5.0"
 authors = ["Uttarayan Mondal <uttarayan21@gmail.com>"]
-edition = "2018"
+edition = "2021"
 description = "A library to convert ansi color coded text into tui::text::Text type from tui-rs library"
 keywords = ["ansi", "ascii", "tui", "parser"]
 license = "MIT"
